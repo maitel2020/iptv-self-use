@@ -25,7 +25,7 @@
     "http://xhztv.top/zbc.txt",
     "https://wzsvip.github.io/ipv4.txt"
   ],
-  "otype": 7, 
+  "otype": 7,
   "sendfile_list": ["/output/iptv.m3u","/output/iptv.txt"],
   "delay_threshold": 3000,
   "max_check_count":20000
