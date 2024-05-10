@@ -3,7 +3,7 @@
 2. 因为是自家使用，所以有些节目是没有收录的
 3. 如有其他节目需求，请自行使用IPTV-M3U-Checker2工具搭建
 
-# 国内加速：
+# 国内加速
 1. https://hub.gitmirror.com/https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.m3u
 2. https://hub.gitmirror.com/https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
 
