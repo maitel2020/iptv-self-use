@@ -26,7 +26,7 @@
     "https://wzsvip.github.io/ipv4.txt"
   ],
   "otype": 7,
-  "sendfile_list": ["D:/app/IPTV-M3U-Checker2/output/iptv.m3u","D:/app/IPTV-M3U-Checker2/output/iptv.txt"],
+  "sendfile_list": ["/output/iptv.m3u","/output/iptv.txt"],
   "delay_threshold": 3000,
   "max_check_count":20000
 }
