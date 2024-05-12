@@ -13,5 +13,6 @@
 3. 有些源难免失效，而且有些节目名称还千奇百怪，会尽量收录直播源和统一节目名称
 
 # 鸣谢
-1. https://github.com/flyfishes/IPTV-M3U-Checker2
-2. 各大直播源的提供者
+1. 各大直播源的提供者
+2. https://github.com/flyfishes/IPTV-M3U-Checker2
+3. https://github.com/ssili126/tv
