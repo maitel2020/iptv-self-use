@@ -6,8 +6,8 @@
 6. 如有其他节目需求，请自行使用IPTV-M3U-Checker2工具搭建
 
 # 国内加速
-1. https://ghproxy.com/https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.m3u
-2. https://ghproxy.com/https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
+1. https://raw.gitmirror.com/maitel2020/iptv-self-use/main/iptv.m3u
+2. https://raw.gitmirror.com/maitel2020/iptv-self-use/main/iptv.txt
 
 # 其他
 1. 各家的直播源请到myconfig.json查看
