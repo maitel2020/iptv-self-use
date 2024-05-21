@@ -118,9 +118,9 @@ http://106.115.25.64:9999/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-9"  group-title="1.央视频道",CCTV-9
 http://110.72.64.163:8181/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-9"  group-title="1.央视频道",CCTV-9
-http://175.10.228.184:9998/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-9"  group-title="1.央视频道",CCTV-9
 http://106.115.24.168:9999/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-9"  group-title="1.央视频道",CCTV-9
+http://175.10.228.184:9998/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-9"  group-title="1.央视频道",CCTV-9
 http://106.115.26.212:9999/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-10"  group-title="1.央视频道",CCTV-10
@@ -132,9 +132,9 @@ http://106.115.26.212:9999/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-10"  group-title="1.央视频道",CCTV-10
 http://106.115.25.64:9999/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-10"  group-title="1.央视频道",CCTV-10
-http://175.10.228.184:9998/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-10"  group-title="1.央视频道",CCTV-10
 http://61.54.14.232:9801/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-10"  group-title="1.央视频道",CCTV-10
+http://175.10.228.184:9998/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-10"  group-title="1.央视频道",CCTV-10
 http://106.115.27.178:9999/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-11"  group-title="1.央视频道",CCTV-11
@@ -148,13 +148,13 @@ http://106.115.25.64:9999/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-12"  group-title="1.央视频道",CCTV-12
 http://106.115.25.148:9999/tsfile/live/0012_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-12"  group-title="1.央视频道",CCTV-12
-http://175.10.228.184:9998/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://106.115.26.235:9999/tsfile/live/0012_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-12"  group-title="1.央视频道",CCTV-12
 http://106.115.26.212:9999/tsfile/live/0012_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-12"  group-title="1.央视频道",CCTV-12
-http://106.115.26.235:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-12"  group-title="1.央视频道",CCTV-12
 http://110.72.64.163:8181/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-12"  group-title="1.央视频道",CCTV-12
+http://175.10.228.184:9998/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-13"  group-title="1.央视频道",CCTV-13
 http://106.115.25.64:9999/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-13"  group-title="1.央视频道",CCTV-13
@@ -167,8 +167,6 @@ http://hls.hsrtv.cn/live/hsyouxian.m3u8
 http://220.164.192.48:50085/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-13"  group-title="1.央视频道",CCTV-13
 http://123.235.8.37:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-14"  group-title="1.央视频道",CCTV-14
-http://175.10.228.184:9998/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-14"  group-title="1.央视频道",CCTV-14
 http://106.115.25.148:9999/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-14"  group-title="1.央视频道",CCTV-14
@@ -197,16 +195,14 @@ http://220.164.192.48:50085/tsfile/live/0017_1.m3u8
 http://110.72.64.163:8181/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-17"  group-title="1.央视频道",CCTV-17
 http://220.164.192.48:50085/tsfile/live/0018_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-17"  group-title="1.央视频道",CCTV-17
-http://222.218.158.205:8181/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-name="东方卫视"  group-title="2.卫视频道",东方卫视
 http://175.10.228.184:9998/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南卫视"  group-title="2.卫视频道",湖南卫视
 http://110.72.64.163:8181/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视"  group-title="2.卫视频道",湖南卫视
-http://175.10.228.184:9998/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视"  group-title="2.卫视频道",湖南卫视
 http://61.54.14.232:9801/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视"  group-title="2.卫视频道",湖南卫视
+http://175.10.228.184:9998/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="2.卫视频道",浙江卫视
 http://14.29.76.30:9901/tsfile/live/0124_1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="2.卫视频道",浙江卫视
@@ -216,13 +212,9 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="2.卫视频道",浙江卫视
 http://175.10.228.184:9998/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="2.卫视频道",浙江卫视
-http://222.218.158.205:8181/tsfile/live/0124_1.m3u8
-#EXTINF:-1 tvg-name="浙江卫视"  group-title="2.卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-name="北京卫视"  group-title="2.卫视频道",北京卫视
 http://110.72.64.163:8181/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-name="江苏卫视"  group-title="2.卫视频道",江苏卫视
-http://113.15.184.38:8181/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视"  group-title="2.卫视频道",江苏卫视
 http://220.164.192.48:50085/tsfile/live/0128_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视"  group-title="2.卫视频道",江苏卫视
@@ -232,9 +224,9 @@ http://61.54.14.232:9801/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视"  group-title="2.卫视频道",江苏卫视
 http://175.10.228.184:9998/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽卫视"  group-title="2.卫视频道",安徽卫视
-http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=298
-#EXTINF:-1 tvg-name="安徽卫视"  group-title="2.卫视频道",安徽卫视
 http://220.164.192.48:50085/tsfile/live/0126_1.m3u8
+#EXTINF:-1 tvg-name="安徽卫视"  group-title="2.卫视频道",安徽卫视
+http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=298
 #EXTINF:-1 tvg-name="安徽卫视"  group-title="2.卫视频道",安徽卫视
 http://106.115.26.235:9999/tsfile/live/0130_1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视"  group-title="2.卫视频道",安徽卫视
@@ -250,9 +242,9 @@ http://175.10.228.184:9998/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="黑龙江卫视"  group-title="2.卫视频道",黑龙江卫视
 http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=351
 #EXTINF:-1 tvg-name="辽宁卫视"  group-title="2.卫视频道",辽宁卫视
-http://106.115.25.148:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视"  group-title="2.卫视频道",辽宁卫视
 http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=234
+#EXTINF:-1 tvg-name="辽宁卫视"  group-title="2.卫视频道",辽宁卫视
+http://106.115.25.148:9999/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视"  group-title="2.卫视频道",辽宁卫视
 http://106.115.26.235:9999/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视"  group-title="2.卫视频道",辽宁卫视
@@ -290,15 +282,13 @@ http://106.115.25.64:9999/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视"  group-title="2.卫视频道",广东卫视
 http://106.115.25.148:9999/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视"  group-title="2.卫视频道",广东卫视
-http://222.218.158.205:8181/tsfile/live/0125_1.m3u8
-#EXTINF:-1 tvg-name="广东卫视"  group-title="2.卫视频道",广东卫视
 http://106.115.27.178:9999/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视"  group-title="2.卫视频道",广东卫视
+http://222.218.158.205:8181/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视"  group-title="2.卫视频道",深圳卫视
 http://220.164.192.48:50085/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视"  group-title="2.卫视频道",深圳卫视
 http://175.10.228.184:9998/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳卫视"  group-title="2.卫视频道",深圳卫视
-http://222.218.158.205:8181/tsfile/live/0126_1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视"  group-title="2.卫视频道",深圳卫视
 https://tv.cry33.com/shenzhen.php?id=szws
 #EXTINF:-1 tvg-name="深圳卫视"  group-title="2.卫视频道",深圳卫视
@@ -317,8 +307,6 @@ https://epg.pw/stream/c53b590edd83259c81e0c7236308f727d152af9ddb24496c8db1485b6a
 http://113.15.184.38:8181/tsfile/live/0135_1.m3u8
 #EXTINF:-1 tvg-name="天津卫视"  group-title="2.卫视频道",天津卫视
 http://220.164.192.48:50085/tsfile/live/0130_1.m3u8
-#EXTINF:-1 tvg-name="天津卫视"  group-title="2.卫视频道",天津卫视
-http://222.218.158.205:8181/tsfile/live/0135_1.m3u8
 #EXTINF:-1 tvg-name="江西卫视"  group-title="2.卫视频道",江西卫视
 http://175.10.228.184:9998/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江西卫视"  group-title="2.卫视频道",江西卫视
@@ -333,8 +321,6 @@ http://106.115.25.148:9999/tsfile/live/0138_1.m3u8
 http://124.238.110.101:9999/tsfile/live/1060_1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视"  group-title="2.卫视频道",重庆卫视
 http://61.54.14.232:9801/tsfile/live/1033_1.m3u8
-#EXTINF:-1 tvg-name="重庆卫视"  group-title="2.卫视频道",重庆卫视
-http://113.15.184.38:8181/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视"  group-title="2.卫视频道",重庆卫视
 http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=249
 #EXTINF:-1 tvg-name="重庆卫视"  group-title="2.卫视频道",重庆卫视
@@ -360,9 +346,9 @@ http://106.115.25.148:9999/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视"  group-title="2.卫视频道",大湾区卫视
 http://glive.grtn.cn/live/lizhi.m3u8
 #EXTINF:-1 tvg-name="东南卫视"  group-title="2.卫视频道",东南卫视
-http://175.10.228.184:9998/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东南卫视"  group-title="2.卫视频道",东南卫视
 http://61.54.14.232:9801/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-name="东南卫视"  group-title="2.卫视频道",东南卫视
+http://175.10.228.184:9998/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东南卫视"  group-title="2.卫视频道",东南卫视
 http://106.115.27.178:9999/tsfile/live/0137_1.m3u8
 #EXTINF:-1 tvg-name="东南卫视"  group-title="2.卫视频道",东南卫视
@@ -378,17 +364,15 @@ http://106.115.26.212:9999/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视"  group-title="2.卫视频道",甘肃卫视
 http://106.115.25.64:9999/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视"  group-title="2.卫视频道",甘肃卫视
-http://113.15.184.38:8181/tsfile/live/0141_1.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视"  group-title="2.卫视频道",甘肃卫视
 http://61.54.14.232:9801/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视"  group-title="2.卫视频道",甘肃卫视
 http://106.115.25.148:9999/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视"  group-title="2.卫视频道",甘肃卫视
 http://124.238.110.101:9999/tsfile/live/1057_1.m3u8
 #EXTINF:-1 tvg-name="广西卫视"  group-title="2.卫视频道",广西卫视
-http://175.10.228.184:9998/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广西卫视"  group-title="2.卫视频道",广西卫视
 http://220.164.192.48:50085/tsfile/live/0112_1.m3u8
+#EXTINF:-1 tvg-name="广西卫视"  group-title="2.卫视频道",广西卫视
+http://175.10.228.184:9998/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广西卫视"  group-title="2.卫视频道",广西卫视
 http://106.115.27.178:9999/tsfile/live/0113_1.m3u8
 #EXTINF:-1 tvg-name="广西卫视"  group-title="2.卫视频道",广西卫视
@@ -420,11 +404,9 @@ http://175.10.228.184:9998/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="海南卫视"  group-title="2.卫视频道",海南卫视
 http://110.72.64.163:8181/tsfile/live/0114_1.m3u8
 #EXTINF:-1 tvg-name="海峡卫视"  group-title="2.卫视频道",海峡卫视
-http://110.72.80.102:8181/tsfile/live/0150_1.m3u8
-#EXTINF:-1 tvg-name="海峡卫视"  group-title="2.卫视频道",海峡卫视
 http://110.72.54.239:8181/tsfile/live/0150_1.m3u8
-#EXTINF:-1 tvg-name="河北卫视"  group-title="2.卫视频道",河北卫视
-http://113.15.184.38:8181/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-name="海峡卫视"  group-title="2.卫视频道",海峡卫视
+http://110.72.80.102:8181/tsfile/live/0150_1.m3u8
 #EXTINF:-1 tvg-name="河北卫视"  group-title="2.卫视频道",河北卫视
 http://106.115.26.212:9999/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-name="河北卫视"  group-title="2.卫视频道",河北卫视
@@ -448,8 +430,6 @@ http://106.115.25.148:9999/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视"  group-title="2.卫视频道",湖北卫视
 http://175.10.228.184:9998/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北卫视"  group-title="2.卫视频道",湖北卫视
-http://113.15.184.38:8181/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-name="湖北卫视"  group-title="2.卫视频道",湖北卫视
 https://epg.pw/stream/95a48ba741cb55df727c504cdfd501c65310a9ad60fdcdbb36ad8277d5790f27.m3u8
 #EXTINF:-1 tvg-name="湖北卫视"  group-title="2.卫视频道",湖北卫视
 http://106.115.24.168:9999/tsfile/live/0132_1.m3u8
@@ -458,9 +438,9 @@ http://124.238.110.101:9999/tsfile/live/1052_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视"  group-title="2.卫视频道",吉林卫视
 http://106.115.25.148:9999/tsfile/live/0116_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视"  group-title="2.卫视频道",吉林卫视
-http://110.72.64.163:8181/tsfile/live/0116_1.m3u8
-#EXTINF:-1 tvg-name="吉林卫视"  group-title="2.卫视频道",吉林卫视
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视"  group-title="2.卫视频道",吉林卫视
+http://110.72.64.163:8181/tsfile/live/0116_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视"  group-title="2.卫视频道",吉林卫视
 http://220.164.192.48:50085/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视"  group-title="2.卫视频道",吉林卫视
@@ -469,8 +449,6 @@ http://106.115.24.168:9999/tsfile/live/0116_1.m3u8
 http://61.54.14.232:9801/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视"  group-title="2.卫视频道",吉林卫视
 http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=317
-#EXTINF:-1 tvg-name="吉林卫视"  group-title="2.卫视频道",吉林卫视
-http://222.218.158.205:8181/tsfile/live/0116_1.m3u8
 #EXTINF:-1 tvg-name="三沙卫视"  group-title="2.卫视频道",三沙卫视
 http://110.72.54.239:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-name="三沙卫视"  group-title="2.卫视频道",三沙卫视
@@ -506,9 +484,11 @@ http://110.72.64.163:8181/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="山西卫视"  group-title="2.卫视频道",山西卫视
 http://110.72.54.239:8181/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
-http://110.72.64.163:8181/tsfile/live/0136_1.m3u8
+http://106.115.25.148:9999/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
 http://106.115.24.168:9999/tsfile/live/0136_1.m3u8
+#EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
+http://110.72.64.163:8181/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
 http://110.72.80.102:8181/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
@@ -517,8 +497,6 @@ http://106.115.25.64:9999/tsfile/live/0136_1.m3u8
 http://106.115.27.178:9999/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
 http://61.54.14.232:9801/tsfile/live/1039_1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
-http://106.115.25.148:9999/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
 http://106.115.26.212:9999/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
@@ -529,8 +507,6 @@ http://175.10.228.184:9998/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=
 http://220.164.192.48:50085/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
 http://124.165.251.82:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
-http://113.15.184.38:8181/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-name="四川卫视"  group-title="2.卫视频道",四川卫视
 http://106.115.27.178:9999/tsfile/live/0123_1.m3u8
 #EXTINF:-1 tvg-name="四川卫视"  group-title="2.卫视频道",四川卫视
@@ -580,9 +556,9 @@ http://106.115.27.178:9999/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-name="云南卫视"  group-title="2.卫视频道",云南卫视
 http://106.115.26.212:9999/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-name="云南卫视"  group-title="2.卫视频道",云南卫视
-http://175.10.228.184:9998/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="云南卫视"  group-title="2.卫视频道",云南卫视
 http://124.238.110.101:9999/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-name="云南卫视"  group-title="2.卫视频道",云南卫视
+http://175.10.228.184:9998/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南卫视"  group-title="2.卫视频道",云南卫视
 http://106.115.25.64:9999/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-name="云南卫视"  group-title="2.卫视频道",云南卫视
@@ -592,11 +568,7 @@ http://113.57.109.36:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-name="安多卫视"  group-title="2.卫视频道",安多卫视
 http://110.72.64.163:8181/tsfile/live/1029_1.m3u8
 #EXTINF:-1 tvg-name="兵团卫视"  group-title="2.卫视频道",兵团卫视
-http://113.15.184.38:8181/tsfile/live/0115_1.m3u8
-#EXTINF:-1 tvg-name="兵团卫视"  group-title="2.卫视频道",兵团卫视
 http://61.54.14.232:9801/tsfile/live/1047_1.m3u8
-#EXTINF:-1 tvg-name="康巴卫视"  group-title="2.卫视频道",康巴卫视
-http://113.15.184.38:8181/tsfile/live/0134_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视"  group-title="2.卫视频道",内蒙古卫视
 http://106.115.26.235:9999/tsfile/live/0109_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视"  group-title="2.卫视频道",内蒙古卫视
@@ -608,8 +580,6 @@ http://220.164.192.48:50085/tsfile/live/0109_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视"  group-title="2.卫视频道",内蒙古卫视
 http://106.115.27.178:9999/tsfile/live/0109_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视"  group-title="2.卫视频道",内蒙古卫视
-http://113.15.184.38:8181/tsfile/live/0109_1.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视"  group-title="2.卫视频道",内蒙古卫视
 http://106.115.25.148:9999/tsfile/live/0109_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视"  group-title="2.卫视频道",内蒙古卫视
 http://106.115.25.64:9999/tsfile/live/0109_1.m3u8
@@ -618,11 +588,11 @@ http://124.238.110.101:9999/tsfile/live/1055_1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视"  group-title="2.卫视频道",内蒙古卫视
 http://60.12.183.46:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视"  group-title="2.卫视频道",宁夏卫视
+https://epg.pw/stream/9da9d86dd9a71ab4526a2165e888246611ce4172aad35eb960f1eafaeec30f90.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视"  group-title="2.卫视频道",宁夏卫视
 http://106.115.25.148:9999/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视"  group-title="2.卫视频道",宁夏卫视
 http://110.72.64.163:8181/tsfile/live/0112_1.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视"  group-title="2.卫视频道",宁夏卫视
-https://epg.pw/stream/9da9d86dd9a71ab4526a2165e888246611ce4172aad35eb960f1eafaeec30f90.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视"  group-title="2.卫视频道",宁夏卫视
 http://106.115.24.168:9999/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视"  group-title="2.卫视频道",宁夏卫视
@@ -652,21 +622,19 @@ https://epg.pw/stream/88275fa7ed99244df3132c943d869e2db50093be6ba4ea763006bf13d7
 #EXTINF:-1 tvg-name="青海卫视"  group-title="2.卫视频道",青海卫视
 http://61.54.14.232:9801/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-name="青海卫视"  group-title="2.卫视频道",青海卫视
-http://113.15.184.38:8181/tsfile/live/0140_1.m3u8
-#EXTINF:-1 tvg-name="青海卫视"  group-title="2.卫视频道",青海卫视
 http://106.115.24.168:9999/tsfile/live/0140_1.m3u8
 #EXTINF:-1 tvg-name="青海卫视"  group-title="2.卫视频道",青海卫视
 http://stream.qhbtv.com/qhws/playlist.m3u8
 #EXTINF:-1 tvg-name="青海卫视"  group-title="2.卫视频道",青海卫视
-http://106.115.26.212:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1 tvg-name="青海卫视"  group-title="2.卫视频道",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 tvg-name="青海卫视"  group-title="2.卫视频道",青海卫视
+http://106.115.26.212:9999/tsfile/live/0140_1.m3u8
 #EXTINF:-1 tvg-name="青海卫视"  group-title="2.卫视频道",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 #EXTINF:-1 tvg-name="西藏卫视"  group-title="2.卫视频道",西藏卫视
-http://175.10.228.184:9998/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="西藏卫视"  group-title="2.卫视频道",西藏卫视
 http://124.238.110.101:9999/tsfile/live/1064_1.m3u8
+#EXTINF:-1 tvg-name="西藏卫视"  group-title="2.卫视频道",西藏卫视
+http://175.10.228.184:9998/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="西藏卫视"  group-title="2.卫视频道",西藏卫视
 http://110.72.54.239:8181/tsfile/live/0111_1.m3u8
 #EXTINF:-1 tvg-name="西藏卫视"  group-title="2.卫视频道",西藏卫视
@@ -683,8 +651,6 @@ http://106.115.26.212:9999/tsfile/live/0111_1.m3u8
 https://epg.pw/stream/a8e83798e1c1f8ffca8b5c81f9b6cfb6290dedebab63c1355662dbb492ba1c2a.m3u8
 #EXTINF:-1 tvg-name="西藏卫视"  group-title="2.卫视频道",西藏卫视
 http://106.115.25.64:9999/tsfile/live/0111_1.m3u8
-#EXTINF:-1 tvg-name="西藏卫视"  group-title="2.卫视频道",西藏卫视
-http://113.15.184.38:8181/tsfile/live/0111_1.m3u8
 #EXTINF:-1 tvg-name="西藏卫视"  group-title="2.卫视频道",西藏卫视
 http://106.115.24.168:9999/tsfile/live/0111_1.m3u8
 #EXTINF:-1 tvg-name="广东体育"  group-title="3.广东频道",广东体育
@@ -713,11 +679,11 @@ http://106.115.26.212:9999/tsfile/live/1020_1.m3u8
 http://110.72.80.102:8181/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通"  group-title="4.少儿频道",金鹰卡通
 http://106.115.27.178:9999/tsfile/live/1020_1.m3u8
-#EXTINF:-1 tvg-name="优漫卡通"  group-title="4.少儿频道",优漫卡通
-http://175.10.228.184:9998/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通"  group-title="4.少儿频道",金鹰卡通
 http://110.72.64.163:8181/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动"  group-title="4.少儿频道",哈哈炫动
-http://175.10.228.184:9998/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="优漫卡通"  group-title="4.少儿频道",优漫卡通
+http://175.10.228.184:9998/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="卡酷少儿"  group-title="4.少儿频道",卡酷少儿
 http://110.72.54.239:8181/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动"  group-title="4.少儿频道",哈哈炫动
+http://175.10.228.184:9998/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
