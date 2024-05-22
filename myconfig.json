@@ -15,19 +15,18 @@
     "https://iptv.b2og.com/txt/fmml_ipv6.txt",
     "https://epg.pw/test_channels_china.txt",
     "https://epg.pw/test_channels_unknown.txt",
-    "https://raw.gitmirror.com/joevess/IPTV/main/sources/iptv_sources.m3u8",
-    "https://raw.gitmirror.com/joevess/IPTV/main/sources/home_sources.m3u8",
+    "https://cdn.jsdelivr.net/gh/joevess/IPTV@main/sources/iptv_sources.m3u8",
+    "https://cdn.jsdelivr.net/gh/joevess/IPTV@main/sources/home_sources.m3u8",
+    "https://cdn.jsdelivr.net/gh/joevess/IPTV@main/iptv.m3u8",
+    "https://cdn.jsdelivr.net/gh/ssili126/tv@main/itvlist.txt",
+    "https://cdn.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
+    "https://cdn.jsdelivr.net/gh/dxawi/0@main/tvlive.txt",
+    "https://cdn.jsdelivr.net/gh/XiaoZhang5656/xiaozhang-5656.github.io@main/iptv-live.txt",
     "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/iptv.txt",
-    "https://raw.gitmirror.com/joevess/IPTV/main/iptv.m3u8",
-    "https://raw.gitmirror.com/ssili126/tv/main/itvlist.txt",
-    "https://raw.gitmirror.com/YueChan/Live/main/IPTV.m3u",
-    "https://raw.gitmirror.com/dxawi/0/main/tvlive.txt",
-    "https://raw.gitmirror.com/XiaoZhang5656/xiaozhang-5656.github.io/main/iptv-live.txt",
-    "http://xhztv.top/zbc.txt",
-    "https://wzsvip.github.io/ipv4.txt"
+    "http://xhztv.top/zbc.txt"
   ],
   "otype": 7,
-  "sendfile_list": ["D:/app/IPTV-M3U-Checker2/share/iptv.txt", "", "D:/app/IPTV-M3U-Checker2/share/iptv.m3u"],
+  "sendfile_list": ["D:/app/iptv-checker/iptv-m3u-source/iptv.txt", "", ""],
   "delay_threshold": 3000,
-  "max_check_count": 20000
+  "max_check_count": 30000
 }
