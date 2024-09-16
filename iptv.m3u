@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-1"  group-title="1.央视频道",CCTV-1
-http://116.23.97.247:50000/udp/239.77.1.17:5146
-#EXTINF:-1 tvg-name="CCTV-1"  group-title="1.央视频道",CCTV-1
 http://113.94.58.116:10010/udp/239.77.1.17:5146
+#EXTINF:-1 tvg-name="CCTV-1"  group-title="1.央视频道",CCTV-1
+http://116.23.97.247:50000/udp/239.77.1.17:5146
 #EXTINF:-1 tvg-name="大湾区卫视"  group-title="2.卫视频道",大湾区卫视
 http://113.100.72.213:8899/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="广东新闻"  group-title="3.广东频道",广东新闻
