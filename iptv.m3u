@@ -1,95 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-1"  group-title="1.央视频道",CCTV-1
-http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
+http://116.28.124.202:8520/udp/239.77.0.86:5146
 #EXTINF:-1 tvg-name="CCTV-1"  group-title="1.央视频道",CCTV-1
-http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-3"  group-title="1.央视频道",CCTV-3
-http://video.qd.sdu.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-4"  group-title="1.央视频道",CCTV-4
-http://video.qd.sdu.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-6"  group-title="1.央视频道",CCTV-6
-http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-#EXTINF:-1 tvg-name="CCTV-8"  group-title="1.央视频道",CCTV-8
-http://video.qd.sdu.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-10"  group-title="1.央视频道",CCTV-10
-http://video.qd.sdu.edu.cn/liverespath/96f212c8bb9eca90c8f15ae041b4f64b3a3ba67b/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-13"  group-title="1.央视频道",CCTV-13
-http://video.qd.sdu.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-17"  group-title="1.央视频道",CCTV-17
-http://159.75.85.63:5678/zb.php?id=douyin
-#EXTINF:-1 tvg-name="CCTV-17"  group-title="1.央视频道",CCTV-17
-http://159.75.85.63:5678/zb.php?id=douyin
-#EXTINF:-1 tvg-name="东方卫视"  group-title="2.卫视频道",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视"  group-title="2.卫视频道",东方卫视
-https://epg.pw/stream/636d16f50c8d96b05c6c11994cc91e361e669419cee31b183d4568b76f288d08.ctv
-#EXTINF:-1 tvg-name="湖南卫视"  group-title="2.卫视频道",湖南卫视
-http://video.qd.sdu.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视"  group-title="2.卫视频道",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视"  group-title="2.卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视"  group-title="2.卫视频道",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视"  group-title="2.卫视频道",河南卫视
-http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="深圳卫视"  group-title="2.卫视频道",深圳卫视
-http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="天津卫视"  group-title="2.卫视频道",天津卫视
-http://115.149.139.141:10001/tsfile/live/1036_1.m3u8?blog.ntnas.top
-#EXTINF:-1 tvg-name="天津卫视"  group-title="2.卫视频道",天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视"  group-title="2.卫视频道",重庆卫视
-https://cntv.lat/tv/live.php?auth=231110&id=cqws
-#EXTINF:-1 tvg-name="广西卫视"  group-title="2.卫视频道",广西卫视
-http://58.220.219.14:9901/tsfile/live/0113_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="广西卫视"  group-title="2.卫视频道",广西卫视
-http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 tvg-name="海南卫视"  group-title="2.卫视频道",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视"  group-title="2.卫视频道",河北卫视
-http://116.28.124.174:8520/udp/239.77.0.148:5146
-#EXTINF:-1 tvg-name="河北卫视"  group-title="2.卫视频道",河北卫视
-http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
-#EXTINF:-1 tvg-name="三沙卫视"  group-title="2.卫视频道",三沙卫视
-https://cntv.lat/tv/live.php?auth=231110&id=ssws
-#EXTINF:-1 tvg-name="山西卫视"  group-title="2.卫视频道",山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
-http://58.220.219.14:9901/tsfile/live/0120_7.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="陕西卫视"  group-title="2.卫视频道",陕西卫视
-http://124.128.73.58:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 tvg-name="新疆卫视"  group-title="2.卫视频道",新疆卫视
-http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
-#EXTINF:-1 tvg-name="云南卫视"  group-title="2.卫视频道",云南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视"  group-title="2.卫视频道",云南卫视
-http://61.136.67.238:50085/tsfile/live/0119_1.m3u8
-#EXTINF:-1 tvg-name="兵团卫视"  group-title="2.卫视频道",兵团卫视
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 tvg-name="兵团卫视"  group-title="2.卫视频道",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视"  group-title="2.卫视频道",宁夏卫视
-http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=a94c8b981714334210
-#EXTINF:-1 tvg-name="延边卫视"  group-title="2.卫视频道",延边卫视
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江"  group-title="3.广东频道",广东珠江
-http://116.28.124.174:8520/udp/239.77.0.3:5146
+http://116.28.124.202:8520/udp/239.77.1.144:5146
+#EXTINF:-1 tvg-name="CCTV-1"  group-title="1.央视频道",CCTV-1
+http://116.28.124.174:8520/udp/239.77.0.86:5146
+#EXTINF:-1 tvg-name="CCTV-1"  group-title="1.央视频道",CCTV-1
+http://116.28.124.174:8520/udp/239.77.1.144:5146
+#EXTINF:-1 tvg-name="CCTV-11"  group-title="1.央视频道",CCTV-11
+http://116.28.124.174:8520/udp/239.77.1.238:5146
+#EXTINF:-1 tvg-name="江苏卫视"  group-title="2.卫视频道",江苏卫视
+http://116.28.124.174:8520/udp/239.77.1.18:5146
+#EXTINF:-1 tvg-name="山东卫视"  group-title="2.卫视频道",山东卫视
+http://116.28.124.174:8520/udp/239.77.0.94:5146
+#EXTINF:-1 tvg-name="大湾区卫视"  group-title="2.卫视频道",大湾区卫视
+http://116.28.124.174:8520/udp/239.77.1.12:5146
+#EXTINF:-1 tvg-name="大湾区卫视"  group-title="2.卫视频道",大湾区卫视
+http://116.28.124.174:8520/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-name="大湾区卫视"  group-title="2.卫视频道",大湾区卫视
+http://116.28.124.174:8520/udp/239.77.0.9:5146
+#EXTINF:-1 tvg-name="大湾区卫视"  group-title="2.卫视频道",大湾区卫视
+http://116.28.124.202:8520/udp/239.77.0.9:5146
+#EXTINF:-1 tvg-name="大湾区卫视"  group-title="2.卫视频道",大湾区卫视
+http://116.28.124.202:8520/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-name="大湾区卫视"  group-title="2.卫视频道",大湾区卫视
+http://116.28.124.202:8520/udp/239.77.1.12:5146
 #EXTINF:-1 tvg-name="广东新闻"  group-title="3.广东频道",广东新闻
-http://116.28.124.202:8520/udp/239.77.0.173:5146
+http://116.28.124.202:8520/udp/239.77.0.4:5146
 #EXTINF:-1 tvg-name="广东珠江"  group-title="3.广东频道",广东珠江
-http://116.28.124.202:8520/udp/239.77.0.3:5146
+http://116.28.124.174:8520/udp/239.77.1.94:5146
+#EXTINF:-1 tvg-name="广东珠江"  group-title="3.广东频道",广东珠江
+http://116.28.124.202:8520/udp/239.77.1.94:5146
 #EXTINF:-1 tvg-name="广东新闻"  group-title="3.广东频道",广东新闻
-http://116.28.124.174:8520/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-name="广州新闻"  group-title="3.广东频道",广州新闻
-http://58.144.154.93/tencentplay.gztv.com/live/xinwen.m3u8
-#EXTINF:-1 tvg-name="广州法治"  group-title="3.广东频道",广州法治
-http://58.144.154.93/tencentplay.gztv.com/live/fazhi.m3u8
-#EXTINF:-1 tvg-name="客家生活"  group-title="3.广东频道",客家生活
-http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
+http://116.28.124.174:8520/udp/239.77.0.4:5146
 #EXTINF:-1 tvg-name="梅州-1"  group-title="3.广东频道",梅州-1
 http://php.jdshipin.com:8880/chudian.php?id=mzzh
-#EXTINF:-1 tvg-name="梅州-1"  group-title="3.广东频道",梅州-1
-http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8?sign=248c3b9e3bb0057a4c358b3657bd06d1&t=663b3512
-#EXTINF:-1 tvg-name="嘉佳卡通"  group-title="4.少儿频道",嘉佳卡通
-https://cntv.lat/tv/live.php?auth=231110&id=jjkt
