@@ -23,7 +23,8 @@
     "https://cdn.jsdelivr.net/gh/dxawi/0@main/tvlive.txt",
     "https://cdn.jsdelivr.net/gh/XiaoZhang5656/xiaozhang-5656.github.io@main/iptv-live.txt",
     "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/iptv.txt",
-    "http://xhztv.top/zbc.txt"
+    "http://xhztv.top/zbc.txt",
+    "https://cdn.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u"
   ],
   "otype": 7,
   "sendfile_list": ["D:/app/iptv-checker/iptv-m3u-source/iptv.txt", "", ""],
