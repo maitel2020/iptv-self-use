@@ -3,8 +3,6 @@
 http://113.109.250.116:9999/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="2.卫视频道",深圳卫视
 http://58.62.234.242:10000/udp/239.77.1.3:5146
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="3.广东频道",广东体育
-http://113.109.250.116:9999/udp/239.77.0.6:5146
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="3.广东频道",广东新闻
 http://113.109.250.116:9999/udp/239.77.0.4:5146
 #EXTINF:-1 tvg-name="梅州-1" tvg-logo="https://live.fanmingming.com/tv/梅州-1.png" group-title="3.广东频道",梅州-1
