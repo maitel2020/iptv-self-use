@@ -1,14 +1,11 @@
 
 1.央视频道,#genre#
-CCTV-1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
-CCTV-6,http://124.116.183.146:9901/tsfile/live/0006_1.m3u8
 CCTV-9,http://58.220.219.14:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://58.220.219.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 2.卫视频道,#genre#
 北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv
 黑龙江卫视,http://58.220.219.14:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://58.220.219.14:9901/tsfile/live/0141_1.m3u8?key=txiptv
 贵州卫视,http://58.220.219.14:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
 山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
