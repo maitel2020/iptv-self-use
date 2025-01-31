@@ -5,10 +5,9 @@
 深圳卫视,http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv
 天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8?blog.ntnas.top
 甘肃卫视,http://58.220.219.14:9901/tsfile/live/0141_1.m3u8?key=txiptv
-广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8#http://58.220.219.14:9901/tsfile/live/0113_1.m3u8?key=txiptv
+广西卫视,http://58.220.219.14:9901/tsfile/live/0113_1.m3u8?key=txiptv#http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
 海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
 湖北卫视,http://113.57.93.165:9900/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://221.2.148.205:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=a94c8b981714334210
 3.广东频道,#genre#
 梅州-1,http://php.jdshipin.com:8880/chudian.php?id=mzzh
