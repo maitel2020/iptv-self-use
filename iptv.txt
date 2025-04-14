@@ -1,3 +1,18 @@
 
+1.央视频道,#genre#
+CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+2.卫视频道,#genre#
+东方卫视,https://epg.pw/stream/636d16f50c8d96b05c6c11994cc91e361e669419cee31b183d4568b76f288d08.ctv
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 3.广东频道,#genre#
 梅州-1,http://php.jdshipin.com:8880/chudian.php?id=mzzh
